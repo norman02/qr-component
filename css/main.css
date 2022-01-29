@@ -107,6 +107,35 @@ people that prefer not to see them */
 }
 
 /*------------------\
+    QR - Component   
+\------------------*/
+/** 
+* The QR component has fixed width, meant
+* to float in the center of the display.
+*/
+.qr {
+  width: 320px;
+  background-color: white;
+  padding: 1rem;
+  box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+}
+
+.qr__scan {
+  background-color: #2e80fa;
+  border-radius: 10px;
+  padding: 4rem;
+}
+
+.qr__info {
+  text-align: center;
+  display: grid;
+  margin-top: 1.5rem;
+  row-gap: 1rem;
+  padding-bottom: 1.5rem;
+}
+
+/*------------------\
     Global Styles   
 \------------------*/
 body {

@@ -1,0 +1,29 @@
+/*------------------\
+    QR - Component   
+\------------------*/
+/** 
+* The QR component has fixed width, meant
+* to float in the center of the display.
+*/
+.qr {
+    width: 320px;
+    background-color: $component-bg-color;
+    padding: rem(16);
+    box-shadow: 0px 25px 25px $shadow-color;
+    border-radius: 20px;
+  }
+  
+  .qr__scan {
+    background-color: $scan-bg-color;
+    border-radius: 10px;
+    padding: rem(64);
+  }
+  
+  .qr__info {
+      text-align: center;
+      display: grid;
+      margin-top: rem(24);
+      row-gap: rem(16);
+      padding-bottom: rem(24);
+  }
+  
