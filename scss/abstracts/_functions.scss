@@ -1,0 +1,7 @@
+// * convert `pixel` to equivelant value
+// * in rems.
+// * @param `pixel` pixel value to convert
+// * @return the equivelant value in rems
+@function rem($pixel) {
+    @return ($pixel / 16 * 1rem);
+}
