@@ -145,6 +145,7 @@ body {
   justify-content: center;
 }
 
+/*------------------\
     QR - Component   
 \------------------*/
 /** 
@@ -182,5 +183,4 @@ body {
   display: flex;
   justify-content: center;
 }
-
 /*# sourceMappingURL=main.css.map */
