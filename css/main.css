@@ -100,7 +100,7 @@ people that prefer not to see them */
 }
 
 .qr__info__body {
-  color: #7b879d;
+  color: #52566F;
   font-size: 0.9375rem;
   font-weight: 400;
   line-height: 1.1875rem;
@@ -145,6 +145,7 @@ body {
   justify-content: center;
 }
 
+/*------------------\
     QR - Component   
 \------------------*/
 /** 
@@ -182,5 +183,4 @@ body {
   display: flex;
   justify-content: center;
 }
-
 /*# sourceMappingURL=main.css.map */
