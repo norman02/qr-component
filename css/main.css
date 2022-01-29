@@ -107,6 +107,16 @@ people that prefer not to see them */
 }
 
 /*------------------\
+    Global Styles   
+\------------------*/
+body {
+  align-items: center;
+  background-color: #d6e2f0;
+  display: flex;
+  justify-content: center;
+}
+
+/*------------------\
     Testing   
 \------------------*/
 /*# sourceMappingURL=main.css.map */
