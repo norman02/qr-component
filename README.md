@@ -16,7 +16,7 @@ This component allows a user to scan a QR code to be directed to the Frontend Me
 
 ## Project Status
 - [x] Create QR Component
-- [] Add accessibility
+- [ ] Add accessibility
 
 ## Acknowledgements
 This project is inspired by [Frontend Mentor](https://www.frontendmentor.io). 
